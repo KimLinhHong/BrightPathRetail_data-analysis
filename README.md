@@ -1,5 +1,5 @@
 🛍️ BrightPath Retail Data Analysis & Dashboard
-📊 **Overview**
+##📊 **Overview**
 
 This project analyzes retail performance for a fictional company, BrightPath Consulting, using SQLite and Excel. The objective was to design a small-scale business intelligence system capable of transforming raw transactional data into actionable insights through SQL queries and interactive dashboards.
 
@@ -99,5 +99,4 @@ All CSV files were imported into an SQLite database (`BrightPathRetail.db`) to b
 * Integrate predictive sales forecasting
 
 ---
-Would you like me to help you format this as a **`README.md` file** (with headers, emoji icons, and table formatting for GitHub Markdown)?
-I can generate the exact Markdown code so you can paste it straight into your repo.
+
