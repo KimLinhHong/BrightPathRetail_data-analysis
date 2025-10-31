@@ -1,0 +1,321 @@
+ProductID,ProductName,Category,UnitPrice
+2001,Electronics Drone 00,Electronics,278.06
+2002,Beauty Conditioner 01,Beauty,40.31
+2003,Beauty Mask 02,Beauty,69.57
+2004,Clothing Hoodie 03,Clothing,84.54
+2005,Home Blender 04,Home,185.22
+2006,Grocery Cereal 05,Grocery,8.4
+2007,Outdoor Cooler 06,Outdoor,115.7
+2008,Beauty Sunscreen 07,Beauty,65.3
+2009,Toys Puzzle 08,Toys,16.24
+2010,Toys Blocks 09,Toys,19.14
+2011,Clothing T-Shirt 10,Clothing,98.96
+2012,Electronics Laptop 11,Electronics,598.22
+2013,Electronics Phone 12,Electronics,381.54
+2014,Beauty Perfume 13,Beauty,84.28
+2015,Clothing Scarf 14,Clothing,86.58
+2016,Electronics Drone 15,Electronics,359.94
+2017,Electronics Tablet 16,Electronics,363.68
+2018,Outdoor Tent 17,Outdoor,111.26
+2019,Electronics Phone 18,Electronics,838.02
+2020,Electronics Laptop 19,Electronics,842.92
+2021,Clothing Belt 20,Clothing,91.87
+2022,Outdoor Water Bottle 21,Outdoor,283.89
+2023,Outdoor Tent 22,Outdoor,58.21
+2024,Home Lamp 23,Home,122.8
+2025,Outdoor Cooler 24,Outdoor,82.14
+2026,Home Chair 25,Home,76.27
+2027,Home Vacuum 26,Home,114.93
+2028,Outdoor Kayak 27,Outdoor,255.89
+2029,Clothing Socks 28,Clothing,23.44
+2030,Toys Blocks 29,Toys,7.75
+2031,Outdoor Water Bottle 30,Outdoor,172.73
+2032,Clothing Socks 31,Clothing,150
+2033,Electronics Speaker 32,Electronics,416.14
+2034,Grocery Cereal 33,Grocery,8.23
+2035,Home Lamp 34,Home,302.26
+2036,Home Lamp 35,Home,147.84
+2037,Beauty Mask 36,Beauty,58.37
+2038,Grocery Juice 37,Grocery,10.43
+2039,Beauty Face Cream 38,Beauty,59.55
+2040,Clothing T-Shirt 39,Clothing,20.19
+2041,Toys RC Car 40,Toys,13.97
+2042,Clothing Belt 41,Clothing,124.09
+2043,Clothing T-Shirt 42,Clothing,44.67
+2044,Grocery Coffee 43,Grocery,8.5
+2045,Home Microwave 44,Home,98.28
+2046,Outdoor Tent 45,Outdoor,247.66
+2047,Home Vacuum 46,Home,400
+2048,Electronics Monitor 47,Electronics,643.62
+2049,Clothing Jeans 48,Clothing,28.11
+2050,Electronics Monitor 49,Electronics,433.85
+2051,Beauty Lipstick 50,Beauty,97.45
+2052,Beauty Mask 51,Beauty,36.13
+2053,Beauty Mask 52,Beauty,85.46
+2054,Grocery Olive Oil 53,Grocery,2
+2055,Electronics Tablet 54,Electronics,409.45
+2056,Beauty Lotion 55,Beauty,74.71
+2057,Grocery Coffee 56,Grocery,17.14
+2058,Beauty Conditioner 57,Beauty,31.36
+2059,Beauty Shampoo 58,Beauty,20.8
+2060,Toys Blocks 59,Toys,26.72
+2061,Home Lamp 60,Home,52.81
+2062,Grocery Granola 61,Grocery,7.32
+2063,Toys Puzzle 62,Toys,31.13
+2064,Home Desk 63,Home,47.02
+2065,Electronics Camera 64,Electronics,761.58
+2066,Clothing Socks 65,Clothing,36.4
+2067,Beauty Conditioner 66,Beauty,98
+2068,Outdoor Water Bottle 67,Outdoor,51.24
+2069,Clothing Dress 68,Clothing,21.73
+2070,Electronics Tablet 69,Electronics,640.81
+2071,Clothing Jeans 70,Clothing,24.76
+2072,Beauty Lotion 71,Beauty,46.43
+2073,Electronics Laptop 72,Electronics,470.2
+2074,Clothing Jeans 73,Clothing,43.98
+2075,Toys Board Game 74,Toys,20.81
+2076,Outdoor Water Bottle 75,Outdoor,169.52
+2077,Outdoor Backpack 76,Outdoor,96.92
+2078,Outdoor Bike Helmet 77,Outdoor,232.29
+2079,Grocery Granola 78,Grocery,7.47
+2080,Home Chair 79,Home,113.86
+2081,Toys Puzzle 80,Toys,120
+2082,Toys Yo-yo 81,Toys,16.08
+2083,Toys Plush 82,Toys,71.89
+2084,Beauty Mask 83,Beauty,10.39
+2085,Clothing Jacket 84,Clothing,11.49
+2086,Clothing T-Shirt 85,Clothing,19
+2087,Toys RC Car 86,Toys,15.42
+2088,Clothing Sneakers 87,Clothing,45.2
+2089,Outdoor Gloves 88,Outdoor,184.44
+2090,Toys Yo-yo 89,Toys,26.82
+2091,Beauty Shampoo 90,Beauty,46.84
+2092,Home Fan 91,Home,142.4
+2093,Grocery Pasta 92,Grocery,13.19
+2094,Electronics TV 93,Electronics,212.05
+2095,Clothing Hoodie 94,Clothing,32.19
+2096,Electronics Camera 95,Electronics,450.78
+2097,Grocery Olive Oil 96,Grocery,10.7
+2098,Clothing Hat 97,Clothing,25.16
+2099,Home Lamp 98,Home,98.34
+2100,Clothing Jeans 99,Clothing,40.73
+2101,Electronics Headphones 00,Electronics,307.98
+2102,Electronics Drone 01,Electronics,303.61
+2103,Toys Plush 02,Toys,33.16
+2104,Grocery Beans 03,Grocery,7.4
+2105,Electronics Tablet 04,Electronics,634.62
+2106,Clothing Hoodie 05,Clothing,21.26
+2107,Outdoor Bike Helmet 06,Outdoor,125.59
+2108,Home Cookware 07,Home,90.42
+2109,Clothing Sneakers 08,Clothing,65.18
+2110,Electronics Monitor 09,Electronics,267.33
+2111,Electronics Drone 10,Electronics,541.06
+2112,Clothing Jacket 11,Clothing,46.55
+2113,Clothing Jacket 12,Clothing,107.42
+2114,Clothing Jeans 13,Clothing,21.86
+2115,Outdoor Gloves 14,Outdoor,104.49
+2116,Beauty Face Cream 15,Beauty,29.2
+2117,Clothing Jacket 16,Clothing,14.69
+2118,Home Lamp 17,Home,299.11
+2119,Toys RC Car 18,Toys,14.84
+2120,Home Blender 19,Home,63.57
+2121,Grocery Juice 20,Grocery,17.62
+2122,Electronics Tablet 21,Electronics,164.16
+2123,Electronics Camera 22,Electronics,739.92
+2124,Beauty Lotion 23,Beauty,21.95
+2125,Toys Puzzle 24,Toys,66.03
+2126,Outdoor Kayak 25,Outdoor,42.16
+2127,Grocery Granola 26,Grocery,2.79
+2128,Electronics Router 27,Electronics,338.93
+2129,Electronics Laptop 28,Electronics,842.04
+2130,Home Vacuum 29,Home,101.84
+2131,Clothing Scarf 30,Clothing,32.7
+2132,Outdoor Lantern 31,Outdoor,347.6
+2133,Outdoor Gloves 32,Outdoor,564.85
+2134,Home Mattress 33,Home,155.3
+2135,Beauty Soap 34,Beauty,35.27
+2136,Outdoor Hiking Boots 35,Outdoor,120.61
+2137,Clothing Hoodie 36,Clothing,18.46
+2138,Clothing T-Shirt 37,Clothing,42.49
+2139,Grocery Juice 38,Grocery,3.01
+2140,Home Microwave 39,Home,144.47
+2141,Grocery Pasta 40,Grocery,26.65
+2142,Outdoor Grill 41,Outdoor,238.41
+2143,Electronics Phone 42,Electronics,354.69
+2144,Electronics Headphones 43,Electronics,644.77
+2145,Electronics TV 44,Electronics,1242.71
+2146,Electronics Monitor 45,Electronics,1205.96
+2147,Toys Blocks 46,Toys,17.11
+2148,Outdoor Gloves 47,Outdoor,210.52
+2149,Grocery Beans 48,Grocery,7.28
+2150,Electronics Monitor 49,Electronics,762.57
+2151,Grocery Olive Oil 50,Grocery,10.07
+2152,Grocery Juice 51,Grocery,2
+2153,Electronics Monitor 52,Electronics,381.43
+2154,Grocery Coffee 53,Grocery,9.01
+2155,Grocery Beans 54,Grocery,3.38
+2156,Clothing Jacket 55,Clothing,56.68
+2157,Clothing Dress 56,Clothing,16.03
+2158,Electronics Laptop 57,Electronics,291.1
+2159,Grocery Juice 58,Grocery,17.89
+2160,Clothing Hat 59,Clothing,23.54
+2161,Clothing Jacket 60,Clothing,56.44
+2162,Toys Action Figure 61,Toys,10.91
+2163,Outdoor Lantern 62,Outdoor,540.35
+2164,Electronics Speaker 63,Electronics,391.51
+2165,Electronics Camera 64,Electronics,497.66
+2166,Clothing Scarf 65,Clothing,44.54
+2167,Electronics Speaker 66,Electronics,676.73
+2168,Clothing Belt 67,Clothing,16.08
+2169,Beauty Shampoo 68,Beauty,51.09
+2170,Clothing Dress 69,Clothing,26.94
+2171,Grocery Rice 70,Grocery,2.9
+2172,Clothing Scarf 71,Clothing,72.32
+2173,Grocery Granola 72,Grocery,6.48
+2174,Clothing T-Shirt 73,Clothing,46.27
+2175,Beauty Serum 74,Beauty,57.09
+2176,Grocery Granola 75,Grocery,6.54
+2177,Beauty Serum 76,Beauty,167.63
+2178,Beauty Mask 77,Beauty,49.82
+2179,Home Toaster 78,Home,40.74
+2180,Electronics Drone 79,Electronics,369.63
+2181,Electronics Laptop 80,Electronics,634.33
+2182,Electronics TV 81,Electronics,646.96
+2183,Electronics Tablet 82,Electronics,244.71
+2184,Outdoor Backpack 83,Outdoor,270.73
+2185,Electronics Monitor 84,Electronics,163.21
+2186,Home Cookware 85,Home,206.12
+2187,Toys Puzzle 86,Toys,14.16
+2188,Electronics Headphones 87,Electronics,410.34
+2189,Toys Slime 88,Toys,59.19
+2190,Home Mattress 89,Home,111.47
+2191,Electronics Camera 90,Electronics,767.2
+2192,Outdoor Hiking Boots 91,Outdoor,224.67
+2193,Clothing Sneakers 92,Clothing,86.54
+2194,Toys Slime 93,Toys,59.11
+2195,Outdoor Backpack 94,Outdoor,118.06
+2196,Toys Yo-yo 95,Toys,45.69
+2197,Home Chair 96,Home,41.51
+2198,Electronics Camera 97,Electronics,453.95
+2199,Outdoor Lantern 98,Outdoor,253.29
+2200,Toys Puzzle 99,Toys,33.86
+2201,Beauty Perfume 00,Beauty,67
+2202,Grocery Rice 01,Grocery,7.04
+2203,Grocery Cereal 02,Grocery,15.75
+2204,Toys Blocks 03,Toys,29.78
+2205,Grocery Rice 04,Grocery,6.05
+2206,Beauty Lipstick 05,Beauty,87.24
+2207,Toys Doll 06,Toys,13.45
+2208,Grocery Chocolate 07,Grocery,10.81
+2209,Outdoor Cooler 08,Outdoor,82.92
+2210,Outdoor Lantern 09,Outdoor,333.68
+2211,Electronics Speaker 10,Electronics,401.87
+2212,Beauty Face Cream 11,Beauty,55.57
+2213,Clothing Jacket 12,Clothing,51.23
+2214,Toys Yo-yo 13,Toys,9.82
+2215,Home Lamp 14,Home,70.22
+2216,Beauty Serum 15,Beauty,95.86
+2217,Grocery Chocolate 16,Grocery,13.47
+2218,Electronics Tablet 17,Electronics,556.99
+2219,Beauty Conditioner 18,Beauty,22.81
+2220,Electronics TV 19,Electronics,667.83
+2221,Home Microwave 20,Home,159.18
+2222,Beauty Lotion 21,Beauty,52.72
+2223,Beauty Lotion 22,Beauty,106.76
+2224,Clothing T-Shirt 23,Clothing,26.54
+2225,Clothing Hoodie 24,Clothing,29.46
+2226,Grocery Rice 25,Grocery,2
+2227,Home Toaster 26,Home,180.17
+2228,Home Mattress 27,Home,125.25
+2229,Outdoor Backpack 28,Outdoor,56.51
+2230,Outdoor Grill 29,Outdoor,53.96
+2231,Toys Slime 30,Toys,18.51
+2232,Toys Action Figure 31,Toys,50.31
+2233,Electronics Camera 32,Electronics,392.49
+2234,Grocery Rice 33,Grocery,4.94
+2235,Electronics Router 34,Electronics,257
+2236,Clothing Hat 35,Clothing,21.29
+2237,Grocery Tea 36,Grocery,2.51
+2238,Toys Action Figure 37,Toys,15.14
+2239,Grocery Tea 38,Grocery,4.21
+2240,Electronics Phone 39,Electronics,707.9
+2241,Electronics TV 40,Electronics,425.51
+2242,Outdoor Tent 41,Outdoor,94.45
+2243,Clothing T-Shirt 42,Clothing,150
+2244,Electronics Router 43,Electronics,315.57
+2245,Electronics Tablet 44,Electronics,946.71
+2246,Outdoor Kayak 45,Outdoor,409.97
+2247,Electronics TV 46,Electronics,183.23
+2248,Toys Action Figure 47,Toys,32.67
+2249,Outdoor Tent 48,Outdoor,113.63
+2250,Electronics Tablet 49,Electronics,328.12
+2251,Electronics Laptop 50,Electronics,655.87
+2252,Beauty Sunscreen 51,Beauty,35.27
+2253,Grocery Juice 52,Grocery,5.94
+2254,Grocery Cereal 53,Grocery,7.23
+2255,Toys Plush 54,Toys,24.98
+2256,Beauty Mask 55,Beauty,25.34
+2257,Beauty Conditioner 56,Beauty,82.62
+2258,Outdoor Grill 57,Outdoor,290.77
+2259,Grocery Olive Oil 58,Grocery,9.83
+2260,Electronics TV 59,Electronics,374.95
+2261,Toys Puzzle 60,Toys,20.47
+2262,Clothing Socks 61,Clothing,26.22
+2263,Grocery Granola 62,Grocery,30
+2264,Beauty Shampoo 63,Beauty,89.96
+2265,Electronics Drone 64,Electronics,283.91
+2266,Grocery Chocolate 65,Grocery,8.83
+2267,Electronics Tablet 66,Electronics,378.12
+2268,Grocery Beans 67,Grocery,11.36
+2269,Electronics Headphones 68,Electronics,651.21
+2270,Electronics Phone 69,Electronics,900.45
+2271,Electronics Camera 70,Electronics,282.14
+2272,Clothing Jeans 71,Clothing,42.59
+2273,Outdoor Kayak 72,Outdoor,54.29
+2274,Clothing Hoodie 73,Clothing,18.81
+2275,Beauty Soap 74,Beauty,87.11
+2276,Grocery Olive Oil 75,Grocery,4.52
+2277,Home Toaster 76,Home,62.64
+2278,Toys Action Figure 77,Toys,31.1
+2279,Home Vacuum 78,Home,157.41
+2280,Beauty Sunscreen 79,Beauty,27.12
+2281,Electronics Tablet 80,Electronics,80
+2282,Beauty Sunscreen 81,Beauty,30.4
+2283,Electronics Drone 82,Electronics,968.85
+2284,Beauty Perfume 83,Beauty,62.97
+2285,Clothing Jacket 84,Clothing,88.52
+2286,Beauty Perfume 85,Beauty,25.99
+2287,Electronics Camera 86,Electronics,175.76
+2288,Clothing Socks 87,Clothing,52.79
+2289,Beauty Face Cream 88,Beauty,59.19
+2290,Clothing Scarf 89,Clothing,48.05
+2291,Clothing Sneakers 90,Clothing,70.01
+2292,Outdoor Lantern 91,Outdoor,199.62
+2293,Grocery Juice 92,Grocery,10.2
+2294,Clothing Belt 93,Clothing,61.43
+2295,Clothing Jeans 94,Clothing,54.07
+2296,Beauty Sunscreen 95,Beauty,85.73
+2297,Electronics Monitor 96,Electronics,860.79
+2298,Home Desk 97,Home,260.08
+2299,Beauty Sunscreen 98,Beauty,34.72
+2300,Beauty Face Cream 99,Beauty,68.38
+2301,Grocery Rice 00,Grocery,6.41
+2302,Clothing T-Shirt 01,Clothing,24.26
+2303,Home Desk 02,Home,68.6
+2304,Home Vacuum 03,Home,139.62
+2305,Grocery Granola 04,Grocery,10.28
+2306,Grocery Pasta 05,Grocery,10.17
+2307,Clothing T-Shirt 06,Clothing,34.93
+2308,Electronics Speaker 07,Electronics,470.96
+2309,Beauty Conditioner 08,Beauty,83.71
+2310,Beauty Perfume 09,Beauty,20.97
+2311,Outdoor Grill 10,Outdoor,157.31
+2312,Clothing Hoodie 11,Clothing,42.22
+2313,Home Toaster 12,Home,163.04
+2314,Toys Plush 13,Toys,13.9
+2315,Outdoor Water Bottle 14,Outdoor,380.13
+2316,Electronics Tablet 15,Electronics,534.28
+2317,Beauty Lotion 16,Beauty,60.14
+2318,Toys Action Figure 17,Toys,24.56
+2319,Beauty Lipstick 18,Beauty,70.78
+2320,Outdoor Water Bottle 19,Outdoor,159.52
