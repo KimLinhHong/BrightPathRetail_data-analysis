@@ -10,6 +10,7 @@ This project analyzes retail performance for a fictional company, BrightPath Con
 
 * **SQLite** – for database creation, data import, and SQL analysis
 * **Excel** – for KPI visualization and dashboard design
+* **Word** - for business report
 
 
 ---
@@ -96,8 +97,8 @@ All CSV files were imported into an SQLite database (`BrightPathRetail.db`) to b
 ### 📌 **Future Improvements**
 
 * Automate ETL process with Python (pandas + sqlite3)
-* Deploy dashboard via Power BI or Tableau for web interactivity
-* Integrate predictive sales forecasting
+* Deploy dashboard via Power BI for web interactivity
+* Lightweight Website for the Business Report
 
 ---
 
