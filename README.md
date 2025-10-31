@@ -1,4 +1,4 @@
-##🛍️ BrightPath Retail Data Analysis & Dashboard
+###🛍️ BrightPath Retail Data Analysis & Dashboard
 ---
 ### 📊 **Overview**
 
