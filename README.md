@@ -1,11 +1,12 @@
-🛍️ BrightPath Retail Data Analysis & Dashboard
-##📊 **Overview**
+##🛍️ BrightPath Retail Data Analysis & Dashboard
+---
+### 📊 **Overview**
 
 This project analyzes retail performance for a fictional company, BrightPath Consulting, using SQLite and Excel. The objective was to design a small-scale business intelligence system capable of transforming raw transactional data into actionable insights through SQL queries and interactive dashboards.
 
 ---
 
-⚙️ **Tech Stack**
+### ⚙️ **Tech Stack**
 
 * **SQLite** – for database creation, data import, and SQL analysis
 * **Excel** – for KPI visualization and dashboard design
@@ -13,7 +14,7 @@ This project analyzes retail performance for a fictional company, BrightPath Con
 
 ---
 
-🗂️ **Data Files**
+### 🗂️ **Data Files**
 
 | File           | Description                                                             |
 | -------------- | ----------------------------------------------------------------------- |
@@ -24,7 +25,7 @@ This project analyzes retail performance for a fictional company, BrightPath Con
 All CSV files were imported into an SQLite database (`BrightPathRetail.db`) to build the analytical foundation.
 
 ---
-🧠 **SQL Analysis Tasks**
+### 🧠 **SQL Analysis Tasks**
 
 1. **Q1 – Regional Store Listing:**
    Retrieve all stores located in the *West* region.
@@ -47,7 +48,7 @@ All CSV files were imported into an SQLite database (`BrightPathRetail.db`) to b
    → *Identifies stable, long-term performers in the portfolio.*
 
 ---
- 📈 **Excel Dashboard Features**
+### 📈 **Excel Dashboard Features**
 
 **File:** `BrightPath_Dashboard.xlsx`
 
